@@ -796,32 +796,32 @@ banner
 
 /*
 ---------------------------------------------
-服务
+services
 ---------------------------------------------
 */ 
 
-section.服务 {
+section.services {
   margin-top: 90px;
 }
 
-.服务 .service-item {
+.services .service-item {
   border-radius: 5px;
   padding: 40px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
   margin-top: 30px;
 }
 
-.服务 .service-item:hover i {
+.services .service-item:hover i {
   margin-top: 15px;
 }
 
-.服务 .service-item h4 {
+.services .service-item h4 {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 20px;
 }
 
-.服务 .service-item i {
+.services .service-item i {
   transition: all .5s;
   float: left;
   font-size: 64px;
@@ -1350,48 +1350,48 @@ section.what-we-do {
 
 /* 
 ---------------------------------------------
-服务 page
+services page
 --------------------------------------------- 
 */
 
-.main-服务 .service-item {
+.main-services .service-item {
   margin-bottom: 60px;
   padding-bottom: 60px;
   border-bottom: 1px solid #ecf8f2;
 }
 
-.main-服务 .last-service {
+.main-services .last-service {
   border-bottom: none;
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
 
-.main-服务  .left-image {
+.main-services  .left-image {
   margin-right: 15px;
 }
 
-.main-服务  .left-image img {
+.main-services  .left-image img {
   border-radius: 5px;
 }
 
-.main-服务  .right-image {
+.main-services  .right-image {
   margin-left: 15px;
 }
 
-.main-服务  .right-image img {
+.main-services  .right-image img {
   border-radius: 5px;
 }
 
-.main-服务 .right-text-content {
+.main-services .right-text-content {
   margin-left: 15px;
 }
 
-.main-服务 .left-text-content {
+.main-services .left-text-content {
   margin-right: 15px;
 }
 
-.main-服务 .right-text-content i,
-.main-服务 .left-text-content i {
+.main-services .right-text-content i,
+.main-services .left-text-content i {
   font-size: 64px;
   color: #43ba7f;
   background-color: #ecf8f2;
@@ -1403,8 +1403,8 @@ section.what-we-do {
   border-radius: 5px;
 }
 
-.main-服务 .right-text-content h4,
-.main-服务 .left-text-content h4 {
+.main-services .right-text-content h4,
+.main-services .left-text-content h4 {
   font-size: 36px;
   font-weight: 700;
   color: #212741;
@@ -1676,14 +1676,14 @@ body {
     margin-right: 0px;
     margin-bottom: 45px;
   }
-  .main-服务 .left-image {
+  .main-services .left-image {
     margin-right: 0px;
     margin-bottom: 30px;
   }
-  .main-服务 .right-text-content {
+  .main-services .right-text-content {
     margin-left: 0px;
   }
-  .main-服务 .right-image {
+  .main-services .right-image {
     margin-left: 0px;
     margin-top: 30px;
   }
@@ -1742,7 +1742,7 @@ body {
   .slide-inner .header-text .buttons .green-button {
     float: none;
   }
-  .服务 .service-item i {
+  .services .service-item i {
     margin-bottom: 35px;
   }
   section.about-us ul.nacc li span.item-title {
